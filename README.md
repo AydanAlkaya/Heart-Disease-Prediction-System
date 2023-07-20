@@ -1,1 +1,1 @@
-# heart-disease-prediction-system
+# Heart  Disease Prediction System
